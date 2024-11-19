@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Description
+
+so far simple todo app for me to refresh some react knowledge and generally done for fun. had an idea to create a full things 3 clone for practice and personal use
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
